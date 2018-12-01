@@ -11,7 +11,7 @@ Steps to install the script on web server:
 
 Steps to use the script:
 
-1. Open Your Google Drive<
+1. Open Your Google Drive
 2. Right Click On Your File
 3. Click On Share
 4. Click On Get Shareable Link
